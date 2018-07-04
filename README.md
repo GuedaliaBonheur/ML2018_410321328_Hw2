@@ -8,3 +8,21 @@ As input data we used binary images of handwritten digits from the MNIST databas
 
 <h4 align="center">How to Use our Project files</h4>
 
+<h4>Step1</h4>
+First, load "digitrecognition.mat" to initialize the module.
+
+
+<h4>Step2</h4>
+Select One image from the MNIST dataset that you would like to identify/recognize. For that, type "figure; imshow(images(:,:,i));" in the command window, where i is a number from 1 to 10 (the index into the image array).
+
+
+<h4>Step3</h4>
+Then run our image recognition algorithm by typing "recognizeDigits(images(:,:,i))" in the command window, where i is an integer from 1 to 10. The program will output the result of the recognition process (The digit that was identified).
+
+
+<h4>Step4</h4>
+In order to verify the result and the accuracy of our algorithm, insert the command "labels(i)" in the command window, where i is the same integer that was entered in the previous steps. This command would show what image i was supposed to be (correct answer).
+
+
+
+<h4 align="center">Performance of our Algorithm</h4>
