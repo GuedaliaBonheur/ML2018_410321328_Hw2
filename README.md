@@ -33,7 +33,7 @@ In order to verify the result and the accuracy of our algorithm, insert the comm
 
 <h4></h4>
 
-![screen shot 2018-07-05 at 3 52 28 am](https://user-images.githubusercontent.com/38835734/42293262-82005378-800b-11e8-8fa8-ae2d0cfc0838.png)
+![screen shot 2018-07-05 at 3 52 28 am](https://user-images.githubusercontent.com/38835734/42293585-fe12462c-800d-11e8-9cf4-3d39396a07ca.png)
 
 
 <h4 align="center">Performance of our Algorithm</h4>
