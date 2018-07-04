@@ -36,3 +36,5 @@ In order to verify the result and the accuracy of our algorithm, insert the comm
 <h4 align="center">Performance of our Algorithm</h4>
 
 9 testacses out of 10 were successful, therefore our handwritten character recognition system has a success rate of 90%
+
+<img width="1440" alt="screen shot 2018-07-05 at 4 03 31 am" src="https://user-images.githubusercontent.com/38835734/42293415-988b707c-800c-11e8-9710-f8bc76f975b2.png">
