@@ -15,17 +15,23 @@ First, load "digitrecognition.mat" to initialize the module.
 <h4>Step2</h4>
 Select One image from the MNIST dataset that you would like to identify/recognize. For that, type "figure; imshow(images(:,:,i));" in the command window, where i is a number from 1 to 10 (the index into the image array).
 
+<h4></h4>
+
 ![screen shot 2018-07-05 at 3 50 49 am](https://user-images.githubusercontent.com/38835734/42292985-2be0ec52-8009-11e8-8558-e50eb8815ab0.png)
 
 
 <h4>Step3</h4>
 Then run our image recognition algorithm by typing "recognizeDigits(images(:,:,i))" in the command window, where i is an integer from 1 to 10. The program will output the result of the recognition process (The digit that was identified).
 
+<h4></h4>
+
 ![screen shot 2018-07-05 at 3 51 19 am](https://user-images.githubusercontent.com/38835734/42293054-bea85750-8009-11e8-98f3-5f6c3450a2bd.png)
 
 
 <h4>Step4</h4>
 In order to verify the result and the accuracy of our algorithm, insert the command "labels(i)" in the command window, where i is the same integer that was entered in the previous steps. This command would show what image i was supposed to be (correct answer).
+
+<h4></h4>
 
 ![screen shot 2018-07-05 at 3 52 28 am](https://user-images.githubusercontent.com/38835734/42293262-82005378-800b-11e8-8fa8-ae2d0cfc0838.png)
 
