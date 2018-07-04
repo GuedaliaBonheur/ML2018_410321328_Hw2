@@ -30,6 +30,7 @@ Then run our image recognition algorithm by typing "recognizeDigits(images(:,:,i
 <h4>Step4</h4>
 In order to verify the result and the accuracy of our algorithm, insert the command "labels(i)" in the command window, where i is the same integer that was entered in the previous steps. This command would show what image i was supposed to be (correct answer).
 
+![screen shot 2018-07-05 at 3 52 28 am](https://user-images.githubusercontent.com/38835734/42293262-82005378-800b-11e8-8fa8-ae2d0cfc0838.png)
 
 
 <h4 align="center">Performance of our Algorithm</h4>
